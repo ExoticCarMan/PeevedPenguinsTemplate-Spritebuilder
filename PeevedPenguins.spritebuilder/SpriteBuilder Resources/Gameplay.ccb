@@ -267,8 +267,6 @@
 					<real>300</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -709,6 +707,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -720,7 +720,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>catapultArm</string>
+								<string>catapultarm</string>
 								<key>memberVarAssignmentName</key>
 								<string>_catapultArm</string>
 								<key>memberVarAssignmentType</key>
