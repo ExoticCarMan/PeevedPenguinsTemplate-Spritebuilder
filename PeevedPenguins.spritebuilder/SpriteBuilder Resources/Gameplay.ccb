@@ -1195,8 +1195,8 @@
 										<key>value</key>
 										<array>
 											<real>34</real>
-											<real>138</real>
-											<integer>0</integer>
+											<real>-138</real>
+											<integer>1</integer>
 											<integer>0</integer>
 											<integer>0</integer>
 										</array>
