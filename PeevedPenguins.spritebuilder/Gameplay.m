@@ -31,6 +31,9 @@
     
     //visualize physics bodies and joints
     _physicsNode.debugDraw = true;
+    
+    _physicsNode.collisionDelegate = self;
+    
     //nothing will collide with invisible nodes
     _pullbackNode.physicsBody.collisionMask = @[];
     _mouseJointNode.physicsBody.collisionMask = @[];
@@ -117,6 +120,10 @@
     self.position = ccp(0, 0);
     CCActionFollow *follow = [CCActionFollow actionWithTarget:penguin worldBoundary:self.boundingBox];
     [_contentNode runAction:follow];
+}
+
+- (void)ccPhysicsCollisionPostSolve:(CCPhysicsCollisionPair *)pair seal:(CCNode *)nodeA wildcard:(CCNode *)nodeB {
+    CCLOG(@"Something collided with a seal!");
 }
 
 - (void)retry {
