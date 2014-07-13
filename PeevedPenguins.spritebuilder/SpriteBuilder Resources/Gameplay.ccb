@@ -264,11 +264,9 @@
 					<key>type</key>
 					<string>Float</string>
 					<key>value</key>
-					<real>5000</real>
+					<real>400</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -752,12 +750,8 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>0.0</real>
-											<real>0.0</real>
-										</array>
-										<array>
-											<real>-0.46529677510261536</real>
-											<real>177.1358642578125</real>
+											<real>-0.24143423140048981</real>
+											<real>133.96669006347656</real>
 										</array>
 										<array>
 											<real>33.933200836181641</real>
@@ -776,13 +770,17 @@
 											<real>104.19676971435547</real>
 										</array>
 										<array>
-											<real>16.614788055419922</real>
-											<real>-0.040217291563749313</real>
+											<real>16.722194671630859</real>
+											<real>109.93502044677734</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
+											<array>
+												<real>16.722194671630859</real>
+												<real>109.93502044677734</real>
+											</array>
 											<array>
 												<real>31.842180252075195</real>
 												<real>104.19676971435547</real>
@@ -799,27 +797,9 @@
 												<real>33.933200836181641</real>
 												<real>179.01350402832031</real>
 											</array>
-										</array>
-										<array>
 											<array>
-												<real>33.933200836181641</real>
-												<real>179.01350402832031</real>
-											</array>
-											<array>
-												<real>-0.46529677510261536</real>
-												<real>177.1358642578125</real>
-											</array>
-											<array>
-												<real>0.0</real>
-												<real>0.0</real>
-											</array>
-											<array>
-												<real>16.614788055419922</real>
-												<real>-0.040217291563749313</real>
-											</array>
-											<array>
-												<real>31.842180252075195</real>
-												<real>104.19676971435547</real>
+												<real>-0.24143423140048981</real>
+												<real>133.96669006347656</real>
 											</array>
 										</array>
 									</array>
@@ -897,6 +877,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
