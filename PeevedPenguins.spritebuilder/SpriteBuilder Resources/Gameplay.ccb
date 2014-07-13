@@ -720,7 +720,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>catapultarm</string>
+								<string>catapultArm</string>
 								<key>memberVarAssignmentName</key>
 								<string>_catapultArm</string>
 								<key>memberVarAssignmentType</key>
