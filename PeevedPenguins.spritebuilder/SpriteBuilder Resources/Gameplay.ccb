@@ -264,9 +264,11 @@
 					<key>type</key>
 					<string>Float</string>
 					<key>value</key>
-					<real>750</real>
+					<real>1000</real>
 				</dict>
 			</array>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -877,8 +879,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
