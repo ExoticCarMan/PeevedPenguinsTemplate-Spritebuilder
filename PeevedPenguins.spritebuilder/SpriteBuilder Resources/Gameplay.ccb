@@ -139,8 +139,6 @@
 					</array>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 		<dict>
 			<key>UUID</key>
@@ -204,7 +202,7 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>1.4210854715202004e-13</real>
+						<real>5.6843418860808015e-14</real>
 						<real>14</real>
 					</array>
 				</dict>
@@ -742,7 +740,7 @@
 									<key>cornerRadius</key>
 									<real>0.0</real>
 									<key>density</key>
-									<real>1</real>
+									<real>20</real>
 									<key>dynamic</key>
 									<true/>
 									<key>elasticity</key>
@@ -879,6 +877,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
